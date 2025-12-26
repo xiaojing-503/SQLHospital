@@ -1,6 +1,6 @@
 # SQLHospital
 
-Code for the paper: "Excising the Root of Text-to-SQL Hallucinations"
+Code for the paper "SQLHospital: Excising the Root of Text-to-SQL Hallucinations"
 
 ## Overview 
 
